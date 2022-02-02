@@ -12,3 +12,5 @@ https://carlbush.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Carl Bush
+
+### ©️2019 Run Buddy, Inc 
